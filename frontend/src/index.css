@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Styl pastelowy, elegancki */
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: white;
+  color: #333;
+}
+
